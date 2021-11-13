@@ -18,9 +18,14 @@
   },
   "homepage": "https://github.com/TCYang1006/just-tech-news#readme",
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "dotenv": "^10.0.0",
+    "env": "0.0.2",
     "express": "^4.17.1",
+    "express-handlebars": "^5.3.4",
+    "init": "^0.1.2",
     "mysql2": "^2.3.2",
-    "sequelize": "^6.8.0"
+    "path": "^0.12.7",
+    "sequelize": "^6.9.0"
   }
 }
